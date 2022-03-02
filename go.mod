@@ -1,5 +1,7 @@
 module github.com/andybalholm/redwood
 
+go 1.14
+
 require (
 	github.com/andybalholm/brotli v1.0.3
 	github.com/andybalholm/cascadia v1.1.0
