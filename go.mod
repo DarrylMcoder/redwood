@@ -1,6 +1,6 @@
 module github.com/andybalholm/redwood
 
-go 1.14
+go 1.15
 
 require (
 	github.com/andybalholm/brotli v1.0.3
@@ -27,5 +27,3 @@ require (
 	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c // indirect
 	golang.org/x/text v0.3.6
 )
-
-go 1.15
